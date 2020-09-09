@@ -1,4 +1,5 @@
 phases:
+version: 0.2
   install:
     runtime-versions:
       docker: 18
